@@ -1,0 +1,9 @@
+id_trecho,localizacao,tipo_terreno,tipo_vegetacao,densidade_vegetacao,inclinacao_graus,area_m2,nivel_risco_equipe,cortes_por_mes
+1,Canteiro central km 12,Plano,Grama rasteira,Baixa,2,1500,Alto,2
+2,Faixa lateral km 18,Plano,Grama alta,Média,3,2200,Médio,2
+3,Talude km 25,Talude,Grama alta,Média,18,1800,Alto,2
+4,Área de escape km 31,Irregular,Mato denso,Alta,8,2500,Alto,3
+5,Talude km 40,Talude,Mato denso,Alta,22,2000,Alto,3
+6,Praça de pedágio km 47,Plano,Grama rasteira,Baixa,1,1000,Médio,2
+7,Faixa de domínio km 55,Irregular,Vegetação mista,Média,10,3000,Baixo,1
+8,Acesso de serviço km 62,Irregular,Grama alta,Média,12,1600,Baixo,1

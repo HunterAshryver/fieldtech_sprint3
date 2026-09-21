@@ -1,0 +1,12 @@
+FIELDTECH ENGINEERING CHALLENGE - MOTIVA / CCR
+Sprint 3 - SQL Aplicado ao Challenge
+
+Integrantes:
+André Henrique Mendes da Cunha - RM 564602
+Guilherme Meira dos Santos - RM 566331
+Gustavo Nobre Coppola - RM 561423
+Pedro Augusto Pioli da Costa Duarte - RM 564085
+Pedro Sinnes Martinez - RM 566017
+Raphael Martins Coutinho - RM 565359
+
+Repositório GitHub: COLE_AQUI_O_LINK_DO_REPOSITORIO
